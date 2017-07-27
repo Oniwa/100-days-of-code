@@ -17,6 +17,10 @@
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
+3. [Python Challenge](http://www.pythonchallenge.com/)
+4. [Exercism.io](http://exercism.io/)
+5. [Over 1,500 Coding Project Ideas](https://www.linuxtrainingacademy.com/projects/)
+6. [17 Ultimate Data Science Projects To Boost Your Knowledge and Skills (& can be accessed freely)](https://www.analyticsvidhya.com/blog/2016/10/17-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)

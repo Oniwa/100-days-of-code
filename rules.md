@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+July 27th, 2017.
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
@@ -12,6 +12,7 @@ June 25th, 2016. [PUT YOUR DATE HERE]
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+  1. **Exception:** I will allow myself to work through the following tutorials; [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic#tutorials), [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html#toc), [Free Code Camp](https://www.freecodecamp.org/), and [Python for Entrepreneurs](https://training.talkpython.fm/courses/details/python-for-entrepreneurs-build-and-launch-your-online-business).  I will only work on these tutorials at most twice in a 7 day period.  My reasoning for this is that these are areas that I do not normally code in and have been wanting to learn.  I hope that by adding this as allowable use of my time it will help me to finish these.
 
 
 ## Ideas to make this challenge more effective
