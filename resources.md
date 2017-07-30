@@ -20,7 +20,9 @@
 3. [Python Challenge](http://www.pythonchallenge.com/)
 4. [Exercism.io](http://exercism.io/)
 5. [Over 1,500 Coding Project Ideas](https://www.linuxtrainingacademy.com/projects/)
-6. [17 Ultimate Data Science Projects To Boost Your Knowledge and Skills (& can be accessed freely)](https://www.analyticsvidhya.com/blog/2016/10/17-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
+6. [Five data science projects to learn data science](https://www.analyticsvidhya.com/blog/2014/11/data-science-projects-learn/) 
+7. [17 Ultimate Data Science Projects To Boost Your Knowledge and Skills (& can be accessed freely)](https://www.analyticsvidhya.com/blog/2016/10/17-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
+8. [Aspiring Data Scientist? Here Are Some At Work Project Ideas](https://www.datascienceweekly.org/articles/aspiring-data-scientist-here-are-some-at-work-project-ideas)
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
