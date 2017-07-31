@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 4: July 31th, 2017
+
+**Today's Progress:** Optimized code, got all tests to pass, and added documentation. 
+
+**Thoughts:** I realize that yesterday I said I was finished but that was just because the code worked as intended.  I cleaned up a bunch of the loose threads today and want to use this code to figure out how to do optional named keywords in python.
+
+**Link to work:** [mtg_tools](https://github.com/Oniwa/mtg_tools)
+
 ### Day 3: July 30th, 2017
 
 **Today's Progress:** Got program to work correctly.  The model is verified by math as shown [here](https://www.reddit.com/r/spikes/comments/5eaf7r/standard_what_is_the_chance_to_hit_delirium_off/).  Also reduced program runtime from 5+ hours to about 30 seconds.
