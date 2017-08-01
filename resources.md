@@ -8,6 +8,11 @@
 3. [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html) StudyWebDevelopment Blog
 
 ### Podcasts
+These are just my favorite podcasts on coding (in no particular order) they are not necessarily about #100DaysOfCode:
+1. [Partially Derivative](http://partiallyderivative.com/)
+2. [Test & Code](http://testandcode.com/)
+3. [Talk Python To Me](https://talkpython.fm/)
+4. [Python Bytes](https://pythonbytes.fm/)
 
 # Additional Resources on the #100DaysOfCode
 
@@ -23,6 +28,7 @@
 6. [Five data science projects to learn data science](https://www.analyticsvidhya.com/blog/2014/11/data-science-projects-learn/) 
 7. [17 Ultimate Data Science Projects To Boost Your Knowledge and Skills (& can be accessed freely)](https://www.analyticsvidhya.com/blog/2016/10/17-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 8. [Aspiring Data Scientist? Here Are Some At Work Project Ideas](https://www.datascienceweekly.org/articles/aspiring-data-scientist-here-are-some-at-work-project-ideas)
+9. [My Ideas](ideas.md)
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
@@ -43,5 +49,6 @@
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
+* [Projects](projects.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)

@@ -25,5 +25,6 @@ July 27th, 2017.
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
+* [Projects](projects.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)

@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: August 1st, 2017
+
+**Today's Progress:** Figured out kwargs, added some comments, refactored code, and got 0 warnings on inspection.  This project should be done unless someone wants something else done with it.  
+
+**Thoughts:** I think some of the errors I may have had a few days ago with the weird unittest results could have been from me being cute with how I was declaring class variables.  I could also advertise this project a bit on reddit.  
+
+**Link to work:** [mtg_tools](https://github.com/Oniwa/mtg_tools)
+
 ### Day 4: July 31th, 2017
 
 **Today's Progress:** Optimized code, got all tests to pass, and added documentation. 
