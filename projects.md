@@ -4,6 +4,7 @@
 
 ## Finished:
 * [mtg_tools](https://github.com/Oniwa/mtg_tools) was finished on 207/07/30
+* [Craft Beer Scraping and Analysis](https://github.com/Oniwa/craft_beer_scraping)  was finished on 2017/08/02
 
 ## Contents
 * [Rules](rules.md)

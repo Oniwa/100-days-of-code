@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: August 2nd, 2017
+
+**Today's Progress:** Got scipy and numpy isntalled on my machine.  Finished the second part of a tutorial I had been working on but need to redo it in a jupyter notebook some other time. 
+
+**Thoughts:** Why is it such a pain to get scipy and numpy working on windows in 2017!?
+
+**Link to work:** [Craft Beer Scraping and Analysis](https://github.com/Oniwa/craft_beer_scraping) 
+
 ### Day 5: August 1st, 2017
 
 **Today's Progress:** Figured out kwargs, added some comments, refactored code, and got 0 warnings on inspection.  This project should be done unless someone wants something else done with it.  
