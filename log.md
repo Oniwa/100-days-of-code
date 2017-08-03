@@ -2,6 +2,15 @@
 
 ### Day 6: August 2nd, 2017
 
+**Today's Progress:** Installed jupyter notebooks and reran the craft beer analysis script.  The visualizations and report worked in jupyter notebooks.  Started the kaggle Titanic tutorial.
+
+**Thoughts:** Always remember to activate your virtual environment before installing packages.  Jupyter notebook looks pretty sweet.
+
+**Link to work:** [Craft Beer Scraping and Analysis](https://github.com/Oniwa/craft_beer_scraping) 
+**Link to work:** [Titanic: Machine Learning from Disaster](https://github.com/Oniwa/kaggle_titanic)
+
+### Day 6: August 2nd, 2017
+
 **Today's Progress:** Got scipy and numpy isntalled on my machine.  Finished the second part of a tutorial I had been working on but need to redo it in a jupyter notebook some other time. 
 
 **Thoughts:** Why is it such a pain to get scipy and numpy working on windows in 2017!?
