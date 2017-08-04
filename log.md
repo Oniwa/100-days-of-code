@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 6: August 2nd, 2017
+### Day 8: August 8th, 2017
+
+**Today's Progress:** Finished the Titanic Kaggle tutorial.  Finished a run-length-encoder for exercism.io.
+
+**Thoughts:** I have soooo much to learn about data science but it seems so interesting!  I will come back to that at a later time.  Worked on some exercism.io stuff for fun.
+
+**Link to work:** [Exercism.io](https://github.com/Oniwa/exercism.io)
+**Link to work:** [Titanic: Machine Learning from Disaster](https://github.com/Oniwa/kaggle_titanic)
+
+### Day 7: August 3rd, 2017
 
 **Today's Progress:** Installed jupyter notebooks and reran the craft beer analysis script.  The visualizations and report worked in jupyter notebooks.  Started the kaggle Titanic tutorial.
 
