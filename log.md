@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 8: August 8th, 2017
+### Day 9: August 5th, 2017
+
+**Today's Progress:** Finished meetup and rotational cypher projects on exorcism.io
+
+**Thoughts:** Learned more about datetimes and dictionaries.
+
+**Link to work:** [Exercism.io](https://github.com/Oniwa/exercism.io)
+
+### Day 8: August 4th, 2017
 
 **Today's Progress:** Finished the Titanic Kaggle tutorial.  Finished a run-length-encoder for exercism.io.
 
