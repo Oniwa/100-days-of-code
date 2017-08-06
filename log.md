@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 10: August 6th, 2017
+
+**Today's Progress:** Finished allergies and difference of squares projects on exorcism.io and took 4 steps towards enlightenment with Python Koans
+
+**Thoughts:** Played with list comprehensions and binary numbers!
+
+**Link to work:** [Exercism.io](https://github.com/Oniwa/exercism.io)
+**Link to work:** [Python Koans](https://github.com/Oniwa/python_koans)
+
 ### Day 9: August 5th, 2017
 
 **Today's Progress:** Finished meetup and rotational cypher projects on exorcism.io
