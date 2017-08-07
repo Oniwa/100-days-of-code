@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 11: August 7th, 2017
+
+**Today's Progress:** Finished series project on exorcism.io and took 3 steps towards enlightenment with Python Koans
+
+**Thoughts:** Learned about tuples and more list comprehensions today.  I do not use list comprehensions enough!
+
+**Link to work:** [Exercism.io](https://github.com/Oniwa/exercism.io)
+**Link to work:** [Python Koans](https://github.com/Oniwa/python_koans)
+
 ### Day 10: August 6th, 2017
 
 **Today's Progress:** Finished allergies and difference of squares projects on exorcism.io and took 4 steps towards enlightenment with Python Koans
