@@ -2,6 +2,14 @@
 
 ### Day 11: August 7th, 2017
 
+**Today's Progress:** Finished robot simulator project on exorcism.io
+
+**Thoughts:** Never thought I would find something I liked in C better than python but being able to do unsigned integer math easily is nice.
+
+**Link to work:** [Exercism.io](https://github.com/Oniwa/exercism.io)
+
+### Day 11: August 7th, 2017
+
 **Today's Progress:** Finished series project on exorcism.io and took 3 steps towards enlightenment with Python Koans
 
 **Thoughts:** Learned about tuples and more list comprehensions today.  I do not use list comprehensions enough!
