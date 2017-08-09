@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 11: August 7th, 2017
+### Day 13: August 9th, 2017
+
+**Today's Progress:** Finished robot atbash cypher and sieve of Eratosthenes projects on exorcism.io.  Refactored rotational cypher from comments given on exercism.io
+
+**Thoughts:** I enjoy constructive crticism.  Using from string import ascii_lowercase to do alphabet manipulation was much easier than doing all of the dictionary stuff.
+
+**Link to work:** [Exercism.io](https://github.com/Oniwa/exercism.io)
+
+### Day 12: August 8th, 2017
 
 **Today's Progress:** Finished robot simulator project on exorcism.io
 
