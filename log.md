@@ -1,8 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 14: August 10th, 2017
+
+**Today's Progress:** Finished sum of multiples and acronym projects on exorcism.io.  Refactored robot simulator from idea I got from looking at someone elses code on exercism.io.  Took 2 more steps towards enlightenment on Python Koans.
+
+**Thoughts:** Glancing at other peoples code on exercism.io is a neat way to see other implementations and some of them are better.  Is using regular expressions pythonic?
+
+**Link to work:** [Exercism.io](https://github.com/Oniwa/exercism.io)
+**Link to work:** [Python Koans](https://github.com/Oniwa/python_koans)
+
 ### Day 13: August 9th, 2017
 
-**Today's Progress:** Finished robot atbash cypher and sieve of Eratosthenes projects on exorcism.io.  Refactored rotational cypher from comments given on exercism.io
+**Today's Progress:** Finished atbash cypher and sieve of Eratosthenes projects on exorcism.io.  Refactored rotational cypher from comments given on exercism.io
 
 **Thoughts:** I enjoy constructive crticism.  Using from string import ascii_lowercase to do alphabet manipulation was much easier than doing all of the dictionary stuff.
 
