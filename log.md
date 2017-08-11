@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 15: August 11th, 2017
+
+**Today's Progress:** Worked on the say project for exercism.io
+
+**Thoughts:** I am not liking my implementation of the say program.  I am going to mull over some ways to make it better and more reusable.
+
+**Link to work:** [Exercism.io](https://github.com/Oniwa/exercism.io)
+
 ### Day 14: August 10th, 2017
 
 **Today's Progress:** Finished sum of multiples and acronym projects on exorcism.io.  Refactored robot simulator from idea I got from looking at someone elses code on exercism.io.  Took 2 more steps towards enlightenment on Python Koans.
