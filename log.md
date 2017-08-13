@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16: August 12th, 2017
+
+**Today's Progress:** Took 6 more steps towards enlightenment on Python Koans.
+
+**Thoughts:** I did not want to work on my exorcism project so worked on Koans instead.  Learned some new stuff about iterators and generators.
+
+**Link to work:** [Python Koans](https://github.com/Oniwa/python_koans)
+
 ### Day 15: August 11th, 2017
 
 **Today's Progress:** Worked on the say project for exercism.io
