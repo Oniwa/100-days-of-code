@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17: August 13th, 2017
+
+**Today's Progress:** Took 7 more steps towards enlightenment on Python Koans.
+
+**Thoughts:** Only 12 more steps left.  Learned some interesting behaivors about mmonkey patching and how to manipulate classes and functions.  Although I don't think they are super useful in practice, I would much rather just edit the function or class than monkey patch or mess with bindings.
+
+**Link to work:** [Python Koans](https://github.com/Oniwa/python_koans)
+
 ### Day 16: August 12th, 2017
 
 **Today's Progress:** Took 6 more steps towards enlightenment on Python Koans.
