@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16: August 14th, 2017
+
+**Today's Progress:** Took 9 more steps towards enlightenment on Python Koans.
+
+**Thoughts:** Only 3 more steps left.  Learned some cool stuff about inheritance, decorators, and attribute access.  Excited to finish the koans up!
+
+**Link to work:** [Python Koans](https://github.com/Oniwa/python_koans)
+
 ### Day 17: August 13th, 2017
 
 **Today's Progress:** Took 7 more steps towards enlightenment on Python Koans.
