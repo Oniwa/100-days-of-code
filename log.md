@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 16: August 14th, 2017
+### Day 19: August 15th, 2017
+
+**Today's Progress:** Using my mtg tools library I made a deck to analyze the percent chance to draw a specific 3 of card by a specific turn.
+
+**Thoughts:** Someone on reddit got me salty so I used this to find the data to make my claim.
+
+**Link to work:** [mtg_tools](https://github.com/Oniwa/mtg_tools)
+
+### Day 18: August 14th, 2017
 
 **Today's Progress:** Took 9 more steps towards enlightenment on Python Koans.
 
