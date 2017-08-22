@@ -1,8 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 20: August 21st, 2017
+
+**Today's Progress:** Using my mtg tools library I made a program to analyze the percent chance to draw the nut hand from a GR Vengevine deck for my friend.
+
+**Thoughts:** I thought I would have to make some adjustments to my mtg tool library but was able to do the model without having to.
+
+**Link to work:** [mtg_tools](https://github.com/Oniwa/mtg_tools)
+
 ### Day 19: August 15th, 2017
 
-**Today's Progress:** Using my mtg tools library I made a deck to analyze the percent chance to draw a specific 3 of card by a specific turn.
+**Today's Progress:** Using my mtg tools library I made a program to analyze the percent chance to draw a specific 3 of card by a specific turn.
 
 **Thoughts:** Someone on reddit got me salty so I used this to find the data to make my claim.
 
