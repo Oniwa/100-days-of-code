@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 21: August 22st, 2017
+
+**Today's Progress:** I finished Python Koans, well all but the extra credit assignment.
+
+**Thoughts:** I do not see the need for proxy classes in python, nor do I really understand it.  It seems to be a topic that isn't used all too much.
+
+**Link to work:** [Python Koans](https://github.com/Oniwa/python_koans)
+
 ### Day 20: August 21st, 2017
 
 **Today's Progress:** Using my mtg tools library I made a program to analyze the percent chance to draw the nut hand from a GR Vengevine deck for my friend.
