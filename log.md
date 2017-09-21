@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 22: September 20th, 2014
+
+**Today's Progress:** Got my python environment upgraded and set up to begin TDD with Python.
+
+**Thoughts:** Spent a bunch of time fighting with getting my environment set up but I succeeded.  Tomorrow I should be able to start actual work again!
+
+**Link to work:** NA
 
 ### Day 21: August 22st, 2017
 
