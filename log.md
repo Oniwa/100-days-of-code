@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
-### Day 22: September 20th, 2014
+### Day 23: September 21st, 2017
+
+**Today's Progress:** Finished the first two chapters of TDD with Python
+
+**Thoughts:** The first two chapters went smoothly.  The tough part was in figuring out how to start over on the project in the github repo I had already started while converting that repo to a git flow workflow.   
+
+**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+
+### Day 22: September 20th, 2017
 
 **Today's Progress:** Got my python environment upgraded and set up to begin TDD with Python.
 
