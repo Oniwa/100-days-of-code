@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 24: September 22nd, 2017
+
+**Today's Progress:** Finished the third chapter of TDD with Python
+
+**Thoughts:** Still covering things I have previously done.  Checked out whether virtualenvwrapper-win works in git bash, it does not.  Got a new console , ConsoleZ, it is an upgraded and maintained Console2.
+
+**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+
 ### Day 23: September 21st, 2017
 
 **Today's Progress:** Finished the first two chapters of TDD with Python
