@@ -1,7 +1,15 @@
 # 100 Days Of Code - Log
+### Day 27: September 25th, 2017
+
+**Today's Progress:** Finished chapters 5, 6, and 7 of TDD with Python.
+
+**Thoughts:** Still covering things I have previously done.
+
+**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+
 ### Day 26: September 24th, 2017
 
-**Today's Progress:** About halway done with the fifth chapter of TDD with Python
+**Today's Progress:** About halfway done with the fifth chapter of TDD with Python
 
 **Thoughts:** Still covering things I have previously done.
 
