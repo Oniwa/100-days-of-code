@@ -1,4 +1,22 @@
 # 100 Days Of Code - Log
+### Day 29: September 27th, 2017
+
+**Today's Progress:** I am going to use my Raspberry Pi 1 as a web server.  I got VNC and SSH working. I built Python 3.6 for the machine from source.
+
+**Thoughts:** First flash card I used was bad.  Once I got newest version of Raspbian working I was able to VNC into it using the useful links below.
+
+**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+
+**Useful links** [How to Control Your Raspberry Pi from Any Computer Using VNC](https://lifehacker.com/how-to-control-your-raspberry-pi-from-any-computer-usin-1788592777), [Raspberry Pi - Installing the Edimax EW-7811Un USB WiFi Adapter (WiFiPi)](http://www.savagehomeautomation.com/projects/raspberry-pi-installing-the-edimax-ew-7811un-usb-wifi-adapte.html) 
+
+### Day 28: September 26th, 2017
+
+**Today's Progress:** Finished chapters 7 and 8 of TDD with Python.
+
+**Thoughts:** Still covering things I have previously done.  Turns out there was a chapter 7 after all.
+
+**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+
 ### Day 27: September 25th, 2017
 
 **Today's Progress:** Finished chapters 5, 6, and 7 of TDD with Python.
