@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
-### Day 29: September 27th, 2017
+### Day 30: September 28 th, 2017
+
+**Today's Progress:** My Raspberry Pi is working as a webserver and running my django project from it!
+
+**Thoughts:** I still can't access my web page off of my network but I think that that is a port forwarding issue in my router.
+
+**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+
+### Day 29: September 27 th, 2017
 
 **Today's Progress:** I am going to use my Raspberry Pi 1 as a web server.  I got VNC and SSH working. I built Python 3.6 for the machine from source.
 
