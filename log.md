@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
-### Day 30: September 28 th, 2017
+### Day 31: September 29th, 2017
+
+**Today's Progress:** Finished Chapter 10 of TDD with Python
+
+**Thoughts:** I still can't access my web page off of my network even though I setup port forwarding.  I may just move this over to Python Anywhere or Digital Ocean.
+
+**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+
+### Day 30: September 28th, 2017
 
 **Today's Progress:** My Raspberry Pi is working as a webserver and running my django project from it!
 
@@ -7,7 +15,7 @@
 
 **Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
 
-### Day 29: September 27 th, 2017
+### Day 29: September 27th, 2017
 
 **Today's Progress:** I am going to use my Raspberry Pi 1 as a web server.  I got VNC and SSH working. I built Python 3.6 for the machine from source.
 
@@ -38,7 +46,7 @@
 **Today's Progress:** About halfway done with the fifth chapter of TDD with Python
 
 **Thoughts:** Still covering things I have previously done.
-
+ 
 **Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
 
 ### Day 25: September 23rd, 2017
