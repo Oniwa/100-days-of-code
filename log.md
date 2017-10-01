@@ -1,11 +1,21 @@
 # 100 Days Of Code - Log
+### Day 33 October 1st, 2017
+
+**Today's Progress:** Learned about JSON and XML for use on the Foodbot 500 project.
+
+**Thoughts:** I am going to use JSON to store the twitter ID and possibly restaurants in the Foodbot 5000 project.
+
+**Link to work:** [Foodbot 5000](https://github.com/Oniwa/foodbot5000)
+
+**Useful links:** [Reading and Writing JSON to a File in Python](http://stackabuse.com/reading-and-writing-json-to-a-file-in-python/)
+
 ### Day 32 September 30th, 2017
 
-**Today's Progress:** Finished writing the automated deployment script in cahpter 11 of TDD with Python.
+**Today's Progress:** Finished writing the automated deployment script in chapter 11 of TDD with Python.
 
 **Thoughts:** Need to migrate over to a PaaS or a raspberry pi 3.  My Raspberry pi 1 is having too hard of a time.
 
-**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
 
 ### Day 31: September 29th, 2017
 
@@ -13,7 +23,7 @@
 
 **Thoughts:** I still can't access my web page off of my network even though I setup port forwarding.  I may just move this over to Python Anywhere or Digital Ocean.
 
-**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
 
 ### Day 30: September 28th, 2017
 
@@ -21,7 +31,7 @@
 
 **Thoughts:** I still can't access my web page off of my network but I think that that is a port forwarding issue in my router.
 
-**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
 
 ### Day 29: September 27th, 2017
 
@@ -29,9 +39,9 @@
 
 **Thoughts:** First flash card I used was bad.  Once I got newest version of Raspbian working I was able to VNC into it using the useful links below.
 
-**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
 
-**Useful links** [How to Control Your Raspberry Pi from Any Computer Using VNC](https://lifehacker.com/how-to-control-your-raspberry-pi-from-any-computer-usin-1788592777), [Raspberry Pi - Installing the Edimax EW-7811Un USB WiFi Adapter (WiFiPi)](http://www.savagehomeautomation.com/projects/raspberry-pi-installing-the-edimax-ew-7811un-usb-wifi-adapte.html) 
+**Useful links:** [How to Control Your Raspberry Pi from Any Computer Using VNC](https://lifehacker.com/how-to-control-your-raspberry-pi-from-any-computer-usin-1788592777), [Raspberry Pi - Installing the Edimax EW-7811Un USB WiFi Adapter (WiFiPi)](http://www.savagehomeautomation.com/projects/raspberry-pi-installing-the-edimax-ew-7811un-usb-wifi-adapte.html) 
 
 ### Day 28: September 26th, 2017
 
@@ -39,7 +49,7 @@
 
 **Thoughts:** Still covering things I have previously done.  Turns out there was a chapter 7 after all.
 
-**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
 
 ### Day 27: September 25th, 2017
 
@@ -47,7 +57,7 @@
 
 **Thoughts:** Still covering things I have previously done.
 
-**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
 
 ### Day 26: September 24th, 2017
 
@@ -55,7 +65,7 @@
 
 **Thoughts:** Still covering things I have previously done.
  
-**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
 
 ### Day 25: September 23rd, 2017
 
@@ -63,7 +73,7 @@
 
 **Thoughts:** Still covering things I have previously done.
 
-**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
 
 ### Day 24: September 22nd, 2017
 
@@ -71,7 +81,7 @@
 
 **Thoughts:** Still covering things I have previously done.  Checked out whether virtualenvwrapper-win works in git bash, it does not.  Got a new console , ConsoleZ, it is an upgraded and maintained Console2.
 
-**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
 
 ### Day 23: September 21st, 2017
 
@@ -79,7 +89,7 @@
 
 **Thoughts:** The first two chapters went smoothly.  The tough part was in figuring out how to start over on the project in the github repo I had already started while converting that repo to a git flow workflow.   
 
-**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
 
 ### Day 22: September 20th, 2017
 
