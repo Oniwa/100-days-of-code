@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 32 September 30th, 2017
+
+**Today's Progress:** Finished writing the automated deployment script in cahpter 11 of TDD with Python.
+
+**Thoughts:** Need to migrate over to a PaaS or a raspberry pi 3.  My Raspberry pi 1 is having too hard of a time.
+
+**Link to work:** [TDD-for-python](https://github.com/Oniwa/TDD-for-python)
+
 ### Day 31: September 29th, 2017
 
 **Today's Progress:** Finished Chapter 10 of TDD with Python
