@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 34 October 2nd, 2017
+
+**Today's Progress:** Implemented JSON file to store variables between script runs.
+
+**Thoughts:** This went well and the JSON file is very easy to edit by hand.  I like it.
+
+**Link to work:** [Foodbot 5000](https://github.com/Oniwa/foodbot5000)
+
 ### Day 33 October 1st, 2017
 
 **Today's Progress:** Learned about JSON and XML for use on the Foodbot 500 project.
