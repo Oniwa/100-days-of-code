@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 35 October 3rd, 2017
+
+**Today's Progress:** Switched webserver to a raspberry pi 3 running ubuntu mate.  Got webpage to load but it won't serve any static files
+
+**Thoughts:** Not sure how to fix my static file problem... 
+
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
+
 ### Day 34 October 2nd, 2017
 
 **Today's Progress:** Implemented JSON file to store variables between script runs.
