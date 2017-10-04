@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 36 October 4th, 2017
+
+**Today's Progress:** Got static files working on staging server.  Went to add production server using the fabric script and when I went to test I am getting http 400 erros.
+
+**Thoughts:** Deleting everything I had previously done and doing a manual deployment worked.  When I went to to do a fabric deployment everything started returning HTTP 400 errors.  I asked for help.
+
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
+
 ### Day 35 October 3rd, 2017
 
 **Today's Progress:** Switched webserver to a raspberry pi 3 running ubuntu mate.  Got webpage to load but it won't serve any static files
