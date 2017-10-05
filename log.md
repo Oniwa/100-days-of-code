@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 37 October 5th, 2017
+
+**Today's Progress:** Added logging to twittwerbot and refactored code.
+
+**Thoughts:** Logging file works well.  The next step is to get this up on my server as a cron job!
+
+**Link to work:** [Foodbot 5000](https://github.com/Oniwa/foodbot5000)
+
 ### Day 36 October 4th, 2017
 
 **Today's Progress:** Got static files working on staging server.  Went to add production server using the fabric script and when I went to test I am getting http 400 erros.
