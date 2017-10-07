@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 38 October 6th, 2017
+
+**Today's Progress:** Got production and development sites to run on both servers but static files are not loading on production site.
+
+**Thoughts:** Author of TDD With Python responded to me and I was able to get the sites back up and running.  Everything looks like it should be right on the production server but static files are still not loading so I asked for help...
+
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
+
 ### Day 37 October 5th, 2017
 
 **Today's Progress:** Added logging to twittwerbot and refactored code.
