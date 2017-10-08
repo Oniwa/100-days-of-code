@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 39 October 8th, 2017
+
+**Today's Progress:** 7 of 18 tests are failing the say exercise on Exercism.io
+
+**Thoughts:** I have been thinking of a way to do this without a function for evey power of three and I think I have stumbled upon it.  I am currently implementing it in the code and have more tests passing than ever.
+
+**Link to work:** [Exercism.io](https://github.com/Oniwa/exercism.io)
+
 ### Day 38 October 6th, 2017
 
 **Today's Progress:** Got production and development sites to run on both servers but static files are not loading on production site.

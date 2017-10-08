@@ -1,10 +1,10 @@
 # Projects
 ## Working On:
 * [TDD With Python](https://github.com/Oniwa/TDD-for-python)
-* [Foodbot 5000](https://github.com/Oniwa/foodbot5000)
+* [Exercism.io](https://github.com/Oniwa/exercism.io)
 
 ## Hold
-* [Exercism.io](https://github.com/Oniwa/exercism.io)
+* [Foodbot 5000](https://github.com/Oniwa/foodbot5000) on hold until I get my webserver working correctly.
 
 ## Finished:
 * [mtg_tools](https://github.com/Oniwa/mtg_tools) was finished on 2017/07/30
