@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 40 October 9th, 2017
+
+**Today's Progress:** 17 of 18 tests passing.  Couldn't figure out last test with my implementation.  Went ahead and submitted so I could look at other peoples' implementation.
+
+**Thoughts:** Found a very good implementation that was close to what I was going for but would have required a lot of rework so I used it, with credit to author, so I can move on.
+
+**Link to work:** [Exercism.io](https://github.com/Oniwa/exercism.io)
+
 ### Day 39 October 8th, 2017
 
 **Today's Progress:** 7 of 18 tests are failing the say exercise on Exercism.io
