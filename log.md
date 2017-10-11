@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 42 October 11th, 2017
+
+**Today's Progress:** Finished kindergarten garden on Exercism.io
+
+**Thoughts:** This exercise wasn't much of a problem.  I did learn about kwargs though which I had been meaning to figure out for a minute.
+
+**Link to work:** [Exercism.io](https://github.com/Oniwa/exercism.io)
+
 ### Day 41 October 10th, 2017
 
 **Today's Progress:** Finished largest series product on Exercism.io
