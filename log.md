@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 41 October 10th, 2017
+
+**Today's Progress:** Finished largest series product on Exercism.io
+
+**Thoughts:** This exercise wasn't much of a problem.  I was too distracted to do a full hour so I finished when I was done with this exercise.
+
+**Link to work:** [Exercism.io](https://github.com/Oniwa/exercism.io)
+
 ### Day 40 October 9th, 2017
 
 **Today's Progress:** 17 of 18 tests passing.  Couldn't figure out last test with my implementation.  Went ahead and submitted so I could look at other peoples' implementation.
