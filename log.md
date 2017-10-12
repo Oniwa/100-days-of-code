@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 43 October 12th, 2017
+
+**Today's Progress:** Finished grade school on Exercism.io
+
+**Thoughts:** This exercise wasn't much of a problem.
+
+**Link to work:** [Exercism.io](https://github.com/Oniwa/exercism.io)
+
 ### Day 42 October 11th, 2017
 
 **Today's Progress:** Finished kindergarten garden on Exercism.io
