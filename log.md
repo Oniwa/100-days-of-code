@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 44 October 13th, 2017
+
+**Today's Progress:** Finished flatten array on Exercism.io
+
+**Thoughts:** This exercise used some nifty recursion to solve.
+
+**Link to work:** [Exercism.io](https://github.com/Oniwa/exercism.io)
+
 ### Day 43 October 12th, 2017
 
 **Today's Progress:** Finished grade school on Exercism.io
