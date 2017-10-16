@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 45 October 16th, 2017
+
+**Today's Progress:** Tried to get my static files served on my production server.
+
+**Thoughts:** From everything I can tell it should work but isn't.
+
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
+
 ### Day 44 October 13th, 2017
 
 **Today's Progress:** Finished flatten array on Exercism.io
