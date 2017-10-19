@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 47 October 19th, 2017
+
+**Today's Progress:** Finished chapter 13 of TDD With Python.
+
+**Thoughts:** Learned about form validation and some django magic.
+
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
+
 ### Day 46 October 18th, 2017
 
 **Today's Progress:** Finished chapter 12 of TDD With Python.
