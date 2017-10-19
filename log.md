@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 46 October 18th, 2017
+
+**Today's Progress:** Finished chapter 12 of TDD With Python.
+
+**Thoughts:** Even though my webserver is working correctly I am continuing on with the book.
+
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
+
 ### Day 45 October 16th, 2017
 
 **Today's Progress:** Tried to get my static files served on my production server.
