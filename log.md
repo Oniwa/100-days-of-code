@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 49 October 22nd, 2017
+
+**Today's Progress:** Finished chapter 14 of TDD With Python.
+
+**Thoughts:** Learned about forms.
+
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
+
 ### Day 48 October 20th, 2017
 
 **Today's Progress:** Halfway through chapter 14 of TDD With Python.
