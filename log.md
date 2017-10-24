@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 50 October 23rd, 2017
+
+**Today's Progress:** Played around on codingame.com
+
+**Thoughts:** Neat website that has you code bots.
+
+**Link to work:** [CodinGame](https://www.codingame.com/)
+
 ### Day 49 October 22nd, 2017
 
 **Today's Progress:** Finished chapter 14 of TDD With Python.

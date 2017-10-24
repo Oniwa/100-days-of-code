@@ -5,6 +5,7 @@
 
 ## Hold
 * [Foodbot 5000](https://github.com/Oniwa/foodbot5000) on hold until I get my webserver working correctly.
+* [CodinGame](https://www.codingame.com/)
 
 ## Finished:
 * [mtg_tools](https://github.com/Oniwa/mtg_tools) was finished on 2017/07/30
