@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 51 October 24th, 2017
+
+**Today's Progress:** Finished chapter 15 of TDD With Python.
+
+**Thoughts:** Learned about advanced forms.
+
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
+
 ### Day 50 October 23rd, 2017
 
 **Today's Progress:** Played around on codingame.com
