@@ -1,4 +1,28 @@
 # 100 Days Of Code - Log
+### Day 54 November 2nd, 2017
+
+**Today's Progress:** Finished chapter 16 of TDD With Python.
+
+**Thoughts:** Learned about javascript unit testing.
+
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
+
+### Day 53 November 1st, 2017
+
+**Today's Progress:** Studied how to make Amazon Alexa Skills.
+
+**Thoughts:** worked through the Codecademy tutorials.
+
+**Link to work:** [Introduction to Alexa](https://www.codecademy.com/learn/learn-alexa)
+
+### Day 52 October 31st, 2017
+
+**Today's Progress:** Halfway through chapter 16 of TDD With Python.
+
+**Thoughts:** Learned about javascript unit testing.
+
+**Link to work:** [TDD With Python](https://github.com/Oniwa/TDD-for-python)
+
 ### Day 51 October 24th, 2017
 
 **Today's Progress:** Finished chapter 15 of TDD With Python.
