@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 55 November 3rd, 2017
+
+**Today's Progress:** Did some more exercises on codingame
+
+**Thoughts:** The rover landing one threw me for a loop for a minute but I beat it
+
+**Link to work:** [CodinGame](https://www.codingame.com/)
+
 ### Day 54 November 2nd, 2017
 
 **Today's Progress:** Finished chapter 16 of TDD With Python.
