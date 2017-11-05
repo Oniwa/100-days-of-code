@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 56 November 4th, 2017
+
+**Today's Progress:** Did some more exercises on codingame
+
+**Thoughts:** Thinking about taking these more serious.  They are making me think but not having access to a debugger is making them harder.  Should port it over and then make unit tests for it.
+
+**Link to work:** [CodinGame](https://www.codingame.com/)
+
 ### Day 55 November 3rd, 2017
 
 **Today's Progress:** Did some more exercises on codingame
