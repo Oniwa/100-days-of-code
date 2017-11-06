@@ -1,11 +1,19 @@
 # 100 Days Of Code - Log
+### Day 57 November 5th, 2017
+
+**Today's Progress:** Finished there is no spoon episode 1
+
+**Thoughts:** I made a local directory on my computer so that I could have a debugger and github this stuff.
+
+**Link to work:** [CodinGame](https://www.codingame.com/profile/204bb41a47fbbea42991d039867520af1411731)
+
 ### Day 56 November 4th, 2017
 
 **Today's Progress:** Did some more exercises on codingame
 
 **Thoughts:** Thinking about taking these more serious.  They are making me think but not having access to a debugger is making them harder.  Should port it over and then make unit tests for it.
 
-**Link to work:** [CodinGame](https://www.codingame.com/)
+**Link to work:** [CodinGame](https://www.codingame.com/profile/204bb41a47fbbea42991d039867520af1411731)
 
 ### Day 55 November 3rd, 2017
 
@@ -13,7 +21,7 @@
 
 **Thoughts:** The rover landing one threw me for a loop for a minute but I beat it
 
-**Link to work:** [CodinGame](https://www.codingame.com/)
+**Link to work:** [CodinGame](https://www.codingame.com/profile/204bb41a47fbbea42991d039867520af1411731)
 
 ### Day 54 November 2nd, 2017
 
@@ -53,7 +61,7 @@
 
 **Thoughts:** Neat website that has you code bots.
 
-**Link to work:** [CodinGame](https://www.codingame.com/)
+**Link to work:** [CodinGame](https://www.codingame.com/profile/204bb41a47fbbea42991d039867520af1411731)
 
 ### Day 49 October 22nd, 2017
 
