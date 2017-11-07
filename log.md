@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 58 November 6th, 2017
+
+**Today's Progress:** Finished ASCII Art on CodinGame
+
+**Thoughts:** It took a while to get all the tests setup but it made solving the code much easier.
+
+**Link to work:** [CodinGame](https://www.codingame.com/profile/204bb41a47fbbea42991d039867520af1411731)
+
 ### Day 57 November 5th, 2017
 
 **Today's Progress:** Finished there is no spoon episode 1
