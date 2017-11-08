@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 59 November 7th, 2017
+
+**Today's Progress:** Made new Chuck Norris project.  Added the rules and created the unittests.
+
+**Thoughts:** Formatting binary numbers to be a specific length is a pain
+
+**Link to work:** [CodinGame](https://github.com/Oniwa/CodinGame)
+
 ### Day 58 November 6th, 2017
 
 **Today's Progress:** Finished ASCII Art on CodinGame
