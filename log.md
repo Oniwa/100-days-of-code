@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 60 November 8th, 2017
+
+**Today's Progress:** Finished CHuck Norris project.
+
+**Thoughts:** Why does my code look so much different that other peoples on these coding sites.  I think mine is more readable but theres are more compact.
+
+**Link to work:** [CodinGame](https://github.com/Oniwa/CodinGame)
+
 ### Day 59 November 7th, 2017
 
 **Today's Progress:** Made new Chuck Norris project.  Added the rules and created the unittests.
