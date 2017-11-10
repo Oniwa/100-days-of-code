@@ -1,9 +1,17 @@
 # 100 Days Of Code - Log
+### Day 61 November 9th, 2017
+
+**Today's Progress:** Finished MIME Type project.
+
+**Thoughts:** This one wasn't too hard at all.  Instead of using os.path I could have used .rsplit('.') to solve the extension issue.
+
+**Link to work:** [CodinGame](https://github.com/Oniwa/CodinGame)
+
 ### Day 60 November 8th, 2017
 
-**Today's Progress:** Finished CHuck Norris project.
+**Today's Progress:** Finished Chuck Norris project.
 
-**Thoughts:** Why does my code look so much different that other peoples on these coding sites.  I think mine is more readable but theres are more compact.
+**Thoughts:** Why does my code look so much different that other peoples on these coding sites.  I think mine is more readable but there is are more compact.
 
 **Link to work:** [CodinGame](https://github.com/Oniwa/CodinGame)
 
