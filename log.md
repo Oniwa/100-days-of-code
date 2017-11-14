@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 62 November 13th, 2017
+
+**Today's Progress:** Finished defibrillator project.
+
+**Thoughts:** Could have used locale instead of .replace(',', '.') to change decimal point from coma to dot
+
+**Link to work:** [CodinGame](https://github.com/Oniwa/CodinGame)
+
 ### Day 61 November 9th, 2017
 
 **Today's Progress:** Finished MIME Type project.
