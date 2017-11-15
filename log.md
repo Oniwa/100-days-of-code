@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 63 November 14th, 2017
+
+**Today's Progress:** Finished horse racing dual project.
+
+**Thoughts:** Python is such a joy to work with.
+
+**Link to work:** [CodinGame](https://github.com/Oniwa/CodinGame)
+
 ### Day 62 November 13th, 2017
 
 **Today's Progress:** Finished defibrillator project.
