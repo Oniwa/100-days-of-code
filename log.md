@@ -1,4 +1,28 @@
 # 100 Days Of Code - Log
+### Day 66 November 27th, 2017
+
+**Today's Progress:** Successfully able to retrieve all pertinent information from BGG. 
+
+**Thoughts:** Next step is to create a CSV file from my findings.
+
+**Link to work:**[BGG Spreadsheet](https://github.com/Oniwa/BGG_Spreadsheet)
+
+### Day 65 November 16th, 2017
+
+**Today's Progress:** Running into an error because one of the board games uses odd characters in it's name
+
+**Thoughts:** Will try to get the board game from its unique ID.
+
+**Link to work:**[BGG Spreadsheet](https://github.com/Oniwa/BGG_Spreadsheet)
+
+### Day 64 November 15th, 2017
+
+**Today's Progress:** Started a new project to extract all of my board game information from BGG
+
+**Thoughts:** vars() is a blessing when working with a 3rd party API
+
+**Link to work:**[BGG Spreadsheet](https://github.com/Oniwa/BGG_Spreadsheet)
+
 ### Day 63 November 14th, 2017
 
 **Today's Progress:** Finished horse racing dual project.
