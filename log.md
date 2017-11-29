@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 67 November 28th, 2017
+
+**Today's Progress:** Made CSV file from data.
+
+**Thoughts:** Next step is to upload the CSV into a spreadsheet.  I think I will try google docs.
+
+**Link to work:**[BGG Spreadsheet](https://github.com/Oniwa/BGG_Spreadsheet)
+
 ### Day 66 November 27th, 2017
 
 **Today's Progress:** Successfully able to retrieve all pertinent information from BGG. 
