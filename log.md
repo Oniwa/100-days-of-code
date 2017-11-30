@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 68 November 29th, 2017
+
+**Today's Progress:** Updates a google sheet with the data.
+
+**Thoughts:** Next step is to create an algorithm that finds the suggested player size.  Also need to read from the google sheet and update the CSV file so that I can enter category, year, and months owned and it won't be rewritten.
+
+**Link to work:**[BGG Spreadsheet](https://github.com/Oniwa/BGG_Spreadsheet)
+
 ### Day 67 November 28th, 2017
 
 **Today's Progress:** Made CSV file from data.
